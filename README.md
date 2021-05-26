@@ -23,11 +23,6 @@ sudo apt-get update ; git clone https://github.com/threat0/okru_down.git ; cd ok
 ```
 clear; pkg update ;pkg install python3 && python ; git clone https://github.com/threat0/okru_down.git ; cd okru_down ; python3 setup.py
 ```
-# `Script name and password`
-```
-Script Name : Faxel
-Script Pssd : Faxel
-```
 ## `DEMO : `
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/threat0/okru_down/master/demo/okru.png" width="700" heigh="500"/></br>
